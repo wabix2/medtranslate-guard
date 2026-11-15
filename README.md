@@ -143,7 +143,7 @@ At a 55-62% flag rate, users would see a warning on most sentences, so this cann
 ## Files
 
 - `medtranslate_guard.py` - the whole pipeline (translate, score, rating sheets, stats, gate, figures)
-- `demo.ipynb` - Colab demo; the first cell installs everything, so it works from a fresh runtime
+- `MedTranslate_Guard_Submission.ipynb` - Colab demo; the first cell installs everything, so it works from a fresh runtime
 - **Round 1 (repo root):** `sentences.csv`, `translations_scored.csv`, `translations_rated.csv`, `rating_sheets/`, `figures/`, `results_summary.md`, `provenance.json`
 - `locked_thresholds.json` - thresholds locked on 2026-11-14 (shared by both rounds)
 - **Round 2 (`round2/`):** `sentences.csv`, `translations_scored.csv`, `translations_rated.csv`, `rating_sheets/`, `figures/`, `results_summary.md`, `provenance.json`
