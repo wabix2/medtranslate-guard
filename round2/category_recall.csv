@@ -1,0 +1,9 @@
+language,category,dangerous,caught,recall
+amharic,frequency_duration,2,2,1.0
+amharic,negation_warning,6,4,0.67
+amharic,quantity,8,7,0.88
+amharic,route_condition,15,12,0.8
+oromo,frequency_duration,2,2,1.0
+oromo,negation_warning,4,4,1.0
+oromo,quantity,10,10,1.0
+oromo,route_condition,11,9,0.82
