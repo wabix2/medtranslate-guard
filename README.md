@@ -43,5 +43,5 @@ Open the script in Colab (GPU helps), put the CSV files next to it, and run it. 
 For one-off checks use `check_instruction("Take one tablet every other day.", lang="amharic")`.
 
 ## Limitations
-Deliberately hard test set (not real-world rates); Oromo has a single rater who is also a team member;
+Deliberately hard test set (not real-world rates); Oromo has a single rater I rate it lone, also am a team member;
 Amharic rater agreement dropped in Round 2; back-translation uses the same model; no real patient data.
