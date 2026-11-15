@@ -4,7 +4,7 @@ Veritas AI International High School Hackathon 2026, AI + Languages track.
 
 > **This project is a prototype and is not medical advice.** "No red flag" never means "safe". Always confirm medicine instructions with a pharmacist or health worker.
 
-[![Open In Colab]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wabix2/medtranslate-guard/blob/main/MedTranslate_Guard_Submission.ipynb))
+([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wabix2/medtranslate-guard/blob/main/MedTranslate_Guard_Submission.ipynb))
 
 ## In short
 
