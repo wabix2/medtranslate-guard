@@ -1,0 +1,101 @@
+﻿id,category,english,split,oromo_core,amharic_core,amharic_ref,oromo_ref
+S01,quantity,Take one tablet with a glass of water.,dev,N,Y,አንድ ኪኒን ከውሃ ብርጭቆ ጋር ይውሰዱ።,Kiniinii tokko bishaan burcuqqoo tokko waliin fudhadhu.
+S02,quantity,Give your child 5 ml of the syrup.,test,Y,Y,ለልጆ ከሽሮፑ 5 ሚሊ ይስጡት።,Daa'ima keetiif sirapii mililitaara 5 kenni.
+S03,quantity,Take two 500 mg tablets.,dev,Y,Y,ሁለት የ500 ሚግ ኪኒኖችን ይውሰዱ።,Kiniinii 500 mg lama fudhadhu.
+S04,quantity,Take half a tablet in the morning.,test,N,Y,ጠዋት ላይ ግማሽ ኪኒን ይውሰዱ።,Ganama kiniinii walakkaa fudhadhu.
+S05,quantity,Put two drops in each eye.,dev,Y,Y,በእያንዳንዱ አይኖት ላይ ሁለት ጠብታ ያድርጉ።,Ija lamanu keessatti cobsa lama cobisi.
+S06,quantity,Mix one sachet of oral rehydration salts into a litre of clean water.,test,Y,Y,አንድ የኦአሬስ እሽግ ከንጹህ አንድ ሊትር ውሃ ጋር ይቀላቅሉ።,Eshegii ORS tokko bishaan qulqulluu liitira tokko keessatti makuun bulleessi.
+S07,quantity,Take one capsule.,dev,Y,Y,አንድ ካፕሱል ይውስዱ።,Kiniinii tokko fudhadhu.
+S08,quantity,Apply a thin layer of the cream to the area.,dev,N,Y,ቦታውን በቀጭኑ በክሬሙ ይቀቡት።,Naannoo sanaati kirimichaa tiqasi dibi.
+S09,quantity,Take one teaspoon of the medicine.,test,Y,Y,ከመድሃኒቱ አንድ የሻይ ማንኪያ ይውስዱ።,Qorichicha falana shaayii tokko fudhadhu.
+S10,quantity,The usual adult dose is two tablets.,dev,N,Y,የተለመደው የአዋቂ ዶዝ ሁለት ኪኒን ነው።,Safartuun ga'eessotaan barame kiniinii lamadha
+S11,quantity,Give the baby 2.5 ml of the drops.,test,Y,Y,ለህጻኑ ከጠብታው 2.5 ሚሊ ይስጡት።,Daa'imichaaf cobsa mililitaara 2.5 kennf.
+S12,quantity,Use one puff from the inhaler.,dev,Y,Y,የአተነፋፈስ ማስታገሻውን አንድ ጊዜ ይጠቀሙ።,Inhaalara  hargansuu tokko fayyadami.
+S13,quantity,Take one and a half tablets.,test,N,Y,አንድ ከግማሽ ኪኒኖች ይውሰዱ።,Kiniinii tokko fi walakkaa fudhadhu.
+S14,frequency_duration,Take one tablet three times a day for five days.,dev,Y,Y,አንድ ኪኒን በቀን ሶስት ጊዜ ለአምስት ቀናት ይውሰዱ።,Guyyaatti si'a sadii kiniinii tokko tokko guyyoota shaniif  fudhadhu.
+S15,frequency_duration,Take this medicine every 8 hours.,dev,N,Y,ይህን መድሃኒት በየስምንት ሰዓቱ ይውሰዱ።,Qoricha kana sa'aa 8 8tiin fudhadhu.
+S16,frequency_duration,Take one capsule once a day for two weeks.,test,Y,Y,አንድ ካፕሱል በቀን አንድ ጊዜ ለአምስት ቀናት ይውሰዱ።,Torban lamaaf guyyaatti si'a tokko kiniinii tokko fudhadhu.
+S17,frequency_duration,"Take the tablets for 7 days, even if you feel better.",test,Y,Y,የመዳን ስሜት ቢሰማዎትም እንኳን ኪኒኑን ለ7 ቀናት ይውሰዱ።,"Yoo fayyites, kiniinii sana guyyaa 7f fudhadhu."
+S18,frequency_duration,Take one tablet in the morning and one in the evening.,test,N,Y,አንድ ኪኒን በጠዋት እና አንድ በቀትር ይውሰዱ።,Ganama fi galgala kiniinii tokko tokko  fudhadu.
+S19,frequency_duration,Use the cream twice a day for 10 days.,test,Y,Y,ክሬሙን በቀን ሁለት ጊዜ ለአስር ቀናት ይጠቀሙ።,Guyyaatti si'a lama guyyaa 10f debatichaa dibadhu.
+S20,frequency_duration,Take one tablet every other day.,test,Y,Y,ከዚህ ቀን ውጭ አንድ ኪኒን ይውሰዱ።,Guyyaa tokko dabarsuun kiniinii tokko fudhadhu.
+S21,frequency_duration,You should take this medicine for three months.,dev,Y,Y,ይህን መድሃኒት ለሶስት ወራት መውስድ ይኖርቦታል።,Qoricha kana ji'a sadiif fudhachuu qabda.
+S22,frequency_duration,"Take one tablet once a week, on the same day each week.",dev,N,Y,ይህን መድሃኒት በተመሳሳይ ቀን በየሳምንቱ ይውሰዱ።,"Torbanitti al tokko, guyyaa wal fakkaataati torban torbaniin kiniinii tokko fudhadhu."
+S23,frequency_duration,Wait at least 6 hours between doses.,dev,N,Y,በዶዞች መካከል ቢያንስ 6 ሰዓታት ይጠብቁ።,Fuudhatta  qorichaa gidduutti yoo xiqqaate sa'aa 6 eegi
+S24,frequency_duration,Put the drops in twice a day for 1 week.,test,Y,Y,ጠብታዎቹን በቀን ሁለት ጊዜ ለአንድ ሳምንት ይድርጉ።,Torban 1f guyyaatti si'a lama cobsicha cobisi.
+S25,frequency_duration,Take this medicine every 12 hours for 3 days.,test,N,Y,ይህን መድሃኒት በየ12 ሰዓታት ለ3 ቀናት ይውሰዱ።,Guyyaa 3f sa'aa 12 12tti qoricha kana fudhadhu.
+S26,frequency_duration,Take one tablet at bedtime for 30 days.,dev,Y,Y,አንድ ኪኒን በመተኛ ሰዓት ላይ ለ30 ቀናት ይውሰዱ።,Guyyaa 30f yeroo raftutti kiniinii tokko fudhadhu.
+S27,negation_warning,Do not take this medicine on an empty stomach.,dev,Y,Y,ይህን መድሃኒት በባዶ ሆድ እንዳይወስዱ።,Garaa duwwaatti qoricha kana hin fudhatin.
+S28,negation_warning,Do not take more than 4 tablets in 24 hours.,test,Y,Y,በ24 ሰዓታት ውስጥ ከ4 ኪኒኖች በላይ እንዳይወስዱ።,Sa'aa 24 keessatti kiniinii 4 ol hin fudhatin.
+S29,negation_warning,Do not drink alcohol while taking this medicine.,dev,Y,Y,ይህን መድሃኒት እየወሰዱ አልኮል እንዳይጠጡ።,Qoricha kana fudhachaa osoo jirtu alkoolii hin dhugin.
+S30,negation_warning,Do not give this medicine to children under 5.,dev,Y,Y,ይህን መድሃኒት ከ5 ዓመት በታች ለሆኑ ህጻናት እንዳይሰጡ።,Ijoollee waggaa 5 gadi ta'aniif qoricha kana hin kennin.
+S31,negation_warning,Do not crush or chew the tablets.,test,N,Y,ኪኒኖቹን እንዳይጨፈልቁ ወይም እንዳያኝኩ።,Kiniinii kana caccabsuu ykn alanfachuu hin qabin.
+S32,negation_warning,Do not stop taking this medicine without talking to a health worker.,test,Y,Y,ይህን መድሃኒት ከጤና ባለሙያ ጋር ሳያነጋገሩ እንዳያቋርጡ።,Ogeessa fayyaa waliin osoo hin haasa'in qoricha kana fudhachuu dhiisuu hin qabdu.
+S33,negation_warning,Do not take this medicine if you are pregnant.,test,N,Y,እርጉዝ ከሆኑ ይህን መድሃኒት እንዳይወስዱ።,Yoo ulfa taate qoricha kana hin fudhatin.
+S34,negation_warning,"If you miss a dose, do not take two doses at once.",test,N,Y,ዶዝ ካመለጦት ሁለት ዶዝ በአንድ ጊዜ እንዳይወስዱ።,"Yoo qoricha fudhachu iranfatee , si'a tokkotti qoricha lama hin fudhatin."
+S35,negation_warning,Do not use this medicine if you are allergic to penicillin.,dev,N,Y,የፔኔሲሊን አለርጂክ ካለቦት ይህን መድሃኒት እንዳይጠቀሙ።,Yoo alarjii pennisiliinii(qoricha farra bakteeriyaa) qabaatte qoricha kana hin fayyadamin.
+S36,negation_warning,Do not use this cream on broken skin.,test,Y,Y,ይህን ክሬም በተጎዳ ቆዳ ላይ እንዳይጠቀሙ።,Gogaa madaa'e irratti kirimicha kana hin fayyadamin.
+S37,negation_warning,Stop taking this medicine and see a doctor if you get a rash.,dev,Y,Y,ሽፍታ ከታየቦት ይህን መድሃኒት መውሰድ ያቁሙ።,Yoo shifiin gogaan sitti baa'e qoricha kana fudhachuu dhiisiitii doktoora bira deemi.
+S38,negation_warning,Do not take this medicine with other products that contain paracetamol.,dev,N,Y,ይህን መድሃኒት በውስጣቸው ፓራሲታሞል ከሚይዙ ምርቶች ጋር እንዳይወስዱ።,Oomishaalee biroo kan qoricha mata dhukube  qabatan wajjin qoricha kana hin fudhatin.
+S39,route_condition,Swallow the tablet whole with water.,dev,Y,Y,ኪኒኑን ሙሉ ከውሃ ጋር ይዋጡት።,Kiniinii kana bishaan waliin guutummaatti liqimsi.
+S40,route_condition,Apply the cream to the affected area only.,test,Y,Y,ክሬሙን በተጎዳው ቦታ ላይ ብቻ ይጠቀሙ።,Kirimicha naannoo miidhame qofa irratti dibi.
+S41,route_condition,Take this medicine with food.,dev,Y,Y,ይህን መድሃኒት ከምግብ ጋር ይውሰዱ።,Qoricha kana nyaata waliin fudhadhu.
+S42,route_condition,Take this medicine 30 minutes before a meal.,dev,Y,Y,ይህን መድሃኒት ምግብ ከመብላቶ በፊት 30 ደቂቃ አስቀድመው ይውሰዱ።,Nyaata dura daqiiqaa 30tti qoricha kana fudhadhu.
+S43,route_condition,Take one tablet only if you have a fever.,dev,N,Y,ትኩሳት ካሎት ብቻ አንድ ኪኒን ይውሰዱ።,Yoo ho'iinsa  qabaatte qofa kiniinii tokko fudhadhu.
+S44,route_condition,Take one tablet if the pain comes back.,dev,Y,Y,ህመሙ ተመልሶ ከመጣ አንድ ኪኒን ይውስዱ።,Yoo dhukkubbiin deebi'ee dhufe kiniinii tokko fudhadhu.
+S45,route_condition,"If you miss a dose, take it as soon as you remember.",test,N,Y,ዶዝ ካመለጦት ልክ ባስታወሱት ጊዜ ይውሰዱ።,"Yoo qoricha dabarsite, akkuma yaadatte fudhadhu."
+S46,route_condition,"If your fever lasts more than 3 days, go to the clinic.",test,N,Y,ትኩሳቱ ከ3ቀን በላይ ከቆየ ወደ ክሊኒክ ይሂዱ።,"Yoo ho'iinsikee guyyaa 3 ol ture, kilinika deemi."
+S47,route_condition,Shake the bottle well before use.,test,N,Y,ከመጠቀሞ በፊት ጠርሙዙን በደንብ ያወዛውዙ።,Fayyadamuu dura qaruuricha sirriitti hurgufi.
+S48,route_condition,This ointment is for use on the skin only.,test,Y,Y,ቅባቱ ለቆዳ ጥቅም ብቻ ነው የሚውልው።,Dibanni kun gogaa qofa irratti kan fayyadamuudha.
+S49,route_condition,Put the drops in your left eye only.,dev,N,Y,ጠብታዎቹን በግራ አይኖት ላይ ብቻ ያድርጉ።,Cobsa kana ija kee bitaa qofa irratti cobisi.
+S50,route_condition,Drink plenty of water while taking this medicine.,test,Y,Y,መድሃኒቱን በሚወስዱበት ጊዜ ብዙ ውሃ ይጠጡ።,Qoricha kana fudhachaa osoo jirtu bishaan baay'ee dhugi.
+S51,quantity,Take one spoonful of the syrup.,test,,Y,ከሽሮፑ አንድ የሾርባ ማንኪያ ይዉሰዱ።,
+S52,quantity,Give five milliliters of the syrup.,dev,,Y,አምስት ሚሊሊትር ሽሮፕ ስጡ (አስወስዱ)።,
+S53,quantity,Use two puffs of the inhaler.,test,,Y,የአተነፋፈስ ማስታገሻውን (ኢንሂለር) ሁለት ጊዜ  ይጠቀሙ።,
+S54,quantity,Take 500 mg per dose.,dev,,Y,በአንድ ጊዜ 500 ሚሊ ግራም ይውሰዱ።,
+S55,quantity,Dissolve one sachet in a glass of water.,test,,Y,አንድ እሽግ (ፓኬት) መድኃኒት በአንድ ብርጭቆ ውሃ በጥብጠው ይጠጡ።,
+S56,quantity,Take two capsules with water.,dev,,Y,ሁለት ካፕሱል በውሃ ይዋጡ።,
+S57,quantity,Place one tablet under the tongue.,test,,Y,አንድ እንክብል ከምላስዎ ስር ያድርጉ።,
+S58,quantity,Take three tablets at once.,dev,,Y,ሦስት እንክብሎችን በአንድ ጊዜ ይዋጡ።,
+S59,quantity,Take two tablets at a time.,test,,Y,በአንድ ጊዜ ሁለት እንክብሎችን ይዋጡ።,
+S60,quantity,Take one tablet by mouth.,dev,,Y,አንድ እንክብል በአፍ ይዋጡ።,
+S61,quantity,Apply a thin layer of the cream to the skin.,test,,Y,ክሬሙን ቆዳዎ ላይ በስሱ ይቀቡ።,
+S62,quantity,Give the child half a tablet.,dev,,Y,ለልጁ ግማሽ ክኒን ይስጡት።,
+S63,quantity,Use one drop in each eye.,test,,Y,በእያንዳንዱ ዓይን ውስጥ አንድ አንድ ጠብታ ያድርጉ።,
+S64,frequency_duration,Take one tablet in the morning and one at night.,dev,,Y,ጠዋት አንድ እንክብል፣ ማታ አንድ እንክብል ይዋጡ።,
+S65,frequency_duration,Use the eye drops for three days only.,dev,,Y,የዓይን ጠብታውን ለሦስት ቀናት ብቻ ይጠቀሙ።,
+S66,frequency_duration,Use the cream for seven days.,test,,Y,ክሬሙን ለሰባት ቀናት ይቀቡ።,
+S67,frequency_duration,Take this medicine once a week.,dev,,Y,ይህንን መድኃኒት በሳምንት አንድ ጊዜ ይውሰዱ።,
+S68,frequency_duration,Take the medicine every six hours.,test,,Y,መድኃኒቱን በየስድስት ሰዓቱ ይውሰዱ።,
+S69,frequency_duration,Take one tablet daily for three months.,dev,,Y,ለሦስት ወራት በየቀኑ አንድ እንክብል ይዋጡ።,
+S70,frequency_duration,Take the tablets for two weeks.,test,,Y,እንክብሎቹን ለሁለት ሳምንታት ይዋጡ።,
+S71,frequency_duration,Take this medicine for five days.,dev,,Y,ይህንን መድኃኒት ለአምስት ቀናት ይውሰዱ።,
+S72,frequency_duration,Take one tablet every 12 hours.,test,,Y,በየ12 ሰዓቱ አንድ እንክብል ይዋጡ።,
+S73,frequency_duration,Take one tablet four times a day.,dev,,Y,በቀን አራት ጊዜ አንድ አንድ እንክብል ይዋጡ።,
+S74,frequency_duration,Take one tablet once daily.,test,,Y,በቀን አንድ ጊዜ አንድ እንክብል ይዋጡ።,
+S75,frequency_duration,Take one tablet before bedtime.,dev,,Y,ከመተኛትዎ በፊት አንድ እንክብል ይዋጡ።,
+S76,frequency_duration,Finish all the tablets even if you feel better.,test,,Y,ቢሻልዎትም እንኳ እንክብሎቹን በሙሉ ይጨርሱ።,
+S77,frequency_duration,Take one tablet before meals three times daily.,dev,,Y,በቀን ሦስት ጊዜ ከምግብ በፊት አንድ እንክብል ይዋጡ።,
+S78,frequency_duration,Continue treatment for ten days.,test,,Y,ሕክምናውን ለአሥር ቀናት ይቀጥሉ።,
+S79,frequency_duration,Take one capsule every eight hours.,dev,,Y,በየስምንት ሰዓቱ አንድ ካፕሱል ይዋጡ።,
+S80,frequency_duration,Take one tablet twice daily.,test,,Y,በቀን ሁለት ጊዜ አንድ አንድ እንክብል ይዋጡ።,
+S81,frequency_duration,Take this medicine for 14 days.,dev,,Y,ይህንን መድኃኒት ለ14 ቀናት ይውሰዱ።,
+S82,frequency_duration,Take the medicine for one month.,test,,Y,መድኃኒቱን ለአንድ ወር ይውሰዱ።,
+S83,frequency_duration,Stop taking this medicine after six days.,dev,,Y,ከስድስት ቀናት በኋላ ይህንን መድኃኒት መውሰድ ያቁሙ።,
+S84,frequency_duration,Apply the cream twice a day.,test,,Y,ክሬሙን በቀን ሁለት ጊዜ ይቀቡ።,
+S85,frequency_duration,Take one tablet three times a day.,dev,,Y,በቀን ሦስት ጊዜ አንድ አንድ እንክብል ይዋጡ።,
+S86,frequency_duration,Take the medicine until the bottle is empty.,test,,Y,ብልቃጡ ውስጥ ያለው መድኃኒት እስኪያልቅ ድረስ ይውሰዱ።,
+S87,frequency_duration,Take this medicine for five weeks.,dev,,Y,ይህንን መድኃኒት ለአምስት ሳምንታት ይውሰዱ።,
+S88,negation_warning,Keep this medicine out of reach of children.,dev,,Y,ይህንን መድኃኒት ሕፃናት በማይደርሱበት ቦታ ያስቀምጡ።,
+S89,negation_warning,Do not use this medicine after the expiry date.,test,,Y,የመጠቀሚያ ጊዜው ካለፈበት በኋላ ይህንን መድኃኒት አይጠቀሙ።,
+S90,negation_warning,Do not stop taking this medicine suddenly.,dev,,Y,ይህንን መድኃኒት በድንገት መውሰድ አያቁሙ።,
+S91,route_condition,Take this medicine one hour before meals.,dev,,Y,ይህንን መድኃኒት ከምግብ አንድ ሰዓት በፊት ይውሰዱ።,
+S92,negation_warning,Do not share this medicine with other people.,dev,,Y,ይህንን መድኃኒት ለሌሎች ሰዎች አይስጡ።,
+S93,negation_warning,Do not use this medicine for longer than 7 days.,test,,Y,ይህንን መድኃኒት ከ7 ቀናት በላይ አይጠቀሙ።,
+S94,negation_warning,Do not take this medicine if you have kidney problems.,dev,,Y,የኩላሊት ችግር ካለብዎት ይህንን መድኃኒት አይውሰዱ።,
+S95,negation_warning,Do not drive or use machines if you feel sleepy.,test,,Y,እንቅልፍ እንቅልፍ የሚልዎት ከሆነ መኪና አያሽከርክሩ ወይም ማሽኖችን አይጠቀሙ።,
+S96,negation_warning,Do not store this medicine in a hot place.,dev,,Y,ይህንን መድኃኒት ሙቀት ባለበት ቦታ አያስቀምጡ።,
+S97,route_condition,Rinse your mouth with water after using the inhaler.,test,,Y,ኢንሄለሩን (መሳቢያውን) ከተጠቀሙ በኋላ አፍዎን በውሃ ይጉመጥመጡ።,
+S98,route_condition,Dissolve the tablet in water before drinking.,dev,,Y,ከመጠጣትዎ በፊት እንክብሉን በውሃ ውስጥ ይበጥብጡት።,
+S99,route_condition,Go to the clinic at once if you feel dizzy or have trouble breathing.,test,,Y,ማዞር ከተሰማዎት ወይም የመተንፈስ ችግር ካጋጠምዎት ወዲያውኑ ወደ ክሊኒክ ይሂዱ።,
+S100,route_condition,Wash your hands before applying the cream.,dev,,Y,ክሬሙን ከመቀባትዎ በፊት እጅዎን ይታጠቡ።,

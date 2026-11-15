@@ -1,0 +1,16 @@
+﻿id,english,oromo_mt,rating,error_type,note
+S05,Put two drops in each eye.,Iji hundumaatti dhibbaan lama kaa'i.,0,,
+S20,Take one tablet every other day.,Guyyaa lammaffaatti tablet tokko fudhadhu.,0,,
+S40,Apply the cream to the affected area only.,Kreeemicha naannoo miidhame irratti qofaa kaa'i.,0,,
+S04,Take half a tablet in the morning.,Ganama sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa,1,sentences_fragmentation,the grammer of the first part is correct but it repeated same word over and over again and didnot finish the sentances
+S26,Take one tablet at bedtime for 30 days.,Guyyoota 30f yeroo rafuu dura tablet tokko fudhadhu.,0,,
+S38,Do not take this medicine with other products that contain paracetamol.,Qoricha kana meeshaalee paracetamoolii qabatan kaan waliin hin fudhatu.,1,wrong_word,the grammer is correct but used wrong word that may cause little confusion
+S49,Put the drops in your left eye only.,Qilleensota sana ija bidiitti qooduu dandeessa.,2,wrong_sentences,the grammer is completly dangerous
+S31,Do not crush or chew the tablets.,Maanguddoota kana hin cabsinaa ykn hin nyaatinaa.,1,wrong_word,one single incorrect word gave completly diffrent meaning
+S09,Take one teaspoon of the medicine.,Dawaa xinnoo xinnoo fudhadhu.,1,wrong_word,it excluded one word which is essential to fully understand
+S13,Take one and a half tablets.,Daabiloota tokkoo fi walakkaa fudhadhu.,1,wrong_word,one single incorrect word gave completly diffrent meaning
+S33,Do not take this medicine if you are pregnant.,Yoo ulfaa jirtu qoricha kana hin fudhatu.,0,,
+S14,Take one tablet three times a day for five days.,Guyyaa shanaf guyyaatti al sadii tableetii tokko fudhadhu.,0,,
+S27,Do not take this medicine on an empty stomach.,Qoricha kana mana duwwaa keessatti hin fudhatinaa.,1,wrong_word,one single incorrect word gave completly diffrent meaning
+S18,Take one tablet in the morning and one in the evening.,"Ganama sa'aatii tokko, galgala immoo sa'aatii tokko fudhadhu.",2,wrong_sentances,diffrent meaning fully
+S46,"If your fever lasts more than 3 days, go to the clinic.","Hiree kee guyyoota 3 oliif kan itti fufe yoo ta'e, gara klinikitti deem.",1,wrong_word,one single incorrect word gave completly diffrent meaning

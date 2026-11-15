@@ -1,0 +1,101 @@
+id,english,oromo_mt,rating,error_type,note
+S101,Use one measuring cup of the liquid.,Meeshaa bishaanii tokko fayyadami.,1,wrong_word,the used word is incorrec
+S102,Mix one tablespoon of the powder into a cup of water.,Meeshaa buddeena suphee tokko bishaaniin walitti hidhu.,2,wrong_sentence,the sentance have completly diffrent meaning
+S163,Rub a small amount of the lotion onto the rash.,Qajeelfama xixiqqoo qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelfama qajeelf,2,wrong_sentences,it has repeated wrong words
+S177,Take one vitamin tablet each day for 90 days.,Guyyoota 90f guyyaatti tablet viitamiin tokko fudhadhu.,0,,
+S138,Avoid direct sunlight while using this cream.,Creemii kanatti fayyadamuudhaan ifni ifaa ifaa ofirraa ittisuu.,1,confusing_stetment,
+S200,Check the label before you give the medicine to a child.,Daa'imman tokkoof qoricha kennuu kee dura mallattoo kana sakatta'i.,0,,
+S179,Do not use this medicine if the packet is open.,Qoricha kana yoo maxxanfame hin fayyadaminaa.,1,wrong_word,one single incorrect word 
+S139,Never give this medicine to a child without asking a doctor.,Dooktarraa utuu hin gaafatin daa'ima kanaaf qoricha kana hin kennin.,1,wrong_grammer,one single wrong word but have full meaning
+S103,Use three drops in each ear.,Gurraachoo sadii gurraachoo tokkotti fayyadami.,2,confusing_grammer,it uses confusing and incorrect grammer
+S185,Do not use this ointment on a child under two years.,Daa'imman umuriin isaanii waggaa lamaa gadi ta'e salphina kana hin fayyadaminaa.,1,wrong_word,one single word made the full sentance confusing
+S161,Give the baby one dropper of the vitamin drops.,Daa'imman viitamiinicha keessaa dhibbaa tokko isaaf kenni.,1,confusing_grammer,it gives meaning but it is also confusing
+S127,Do not touch your eye with the tip of the bottle.,Fuulli dhukaasa kanaa ija kee hin tuqu.,1,wrong_word,one single wrong word but have full meaning
+S170,"Use a thin strip of cream, about two centimeters long.",Qilleensa xiqqoo gara santimetira lamaa dheeratu fayyadami.,2,wrong_sentance,have diffrent meaning that the english
+S134,Do not lie down for 30 minutes after taking this tablet.,Talaallii kana erga fudhattee booda daqiiqaa 30f hin hirmaanne.,1,wrong_sentences,two words confusing the sentances
+S152,"Keep the medicine in a cool, dry place.",Qoricha kana bakka ho'aafi ho'aa ta'e tokkotti kaa'i.,2,wrong_instruction,it is instructing the opposite of the english
+S105,Give the child one 5 ml spoonful of the medicine.,Daa'imman kun qoricha shan miiliiliyoolaa tokko akka fudhatan godhaa.,2,wrong_instruction,have completly diffrent instruction
+S193,Take this medicine with a snack if it upsets your stomach.,Qoricha kana kan nyaattu yoo ta'e nyaata nyaattuun nyaadhu.,1,wrong_sentances,it use confusing grammer and wrong words
+S108,Stir three spoonfuls of the powder into warm water.,Meeshaalee buddeena sadan bishaan diimaa keessa dhangalaasuu.,2,wrong_sentances,it give diffrent instruction
+S111,"Use a small amount of gel, about the size of a coin.","Qilleensa xixiqqoo, gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii gatii g",2,wrong_sentances,confuing and unrelated sentances
+S175,Take the medicine once every three days.,Guyyaa sadiitti al tokko qoricha fudhadhu.,0,,
+S146,"If the bleeding does not stop, go to the hospital.",Dhiigaan yoo hin dhaabanne gara hospitaalaatti deemuu qabda.,0,,
+S110,Take three capsules.,Capsules sadii fudhadhu.,0,,
+S121,Do not take this medicine with grapefruit juice.,Qoricha kana bishaan grapefruit waliin hin fudhatu.,0,,
+S119,Take one tablet each evening for two months.,Ji'oota lamaaf galgala galgala tokko fudhadhu.,0,,
+S174,Take two spoonfuls of the syrup every 6 hours.,Sa'aatii 6 keessatti saanduqa lama si'a xuuxuu.,1,wrong_sentances ,it doesnot give any meaning
+S120,Do not use this ointment near your eyes.,Dhiheenyatti dhihoo ija kee dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhihoo dhi,2,wrong_sentances,it give no meaning with one repeated word
+S126,Do not use this spray near a flame.,Ispray kana ibiddaa dhihoo hin fayyadaminaa.,0,,
+S122,Do not give this medicine to a baby under 6 months.,Daa'imman waggaa 6 gadiif qoricha kana hin kenninaa.,1,wrong_word,one single word is incorrect it say year for the english month
+S171,Take one lozenge every two hours.,Sa'aatii lamaaf sa'aatii tokkoof sa'aatii tokkoof sa'aatii tokkoof sa'aatii tokkoof sa'aatii tokkoof sa'aatii tokkoof sa'aatii tokkoof sa'aatii tokkoof sa'aatii tokkoof sa'aatii lamaaf sa'aatii tokkoof sa'aatii tokkoof sa'aatii lamaaf sa'aatii tokkoof sa'aatii lamaaf sa'aatii tokkoof sa'aatii lamaaf sa'aatii lamaaf sa'aatii lamaaf sa'aatii lamaaf sa,2,wrong_sentances,it have single word being repeated for unknown meaning
+S124,Do not use the eye drops while wearing contact lenses.,Lensii walqunnamtii yeroo uffattan dammaquutii ijaaf hin fayyadaminaa.,1,wrong_word,it have one wrong word which may cause wrong meaning
+S198,Open the sachet and pour the powder into a clean glass.,"Baasicha banadhu, buddeenaas galaasii qulqulluu keessa kaa'i.",2,wrong_word,it have word that is inapproprate to use
+S191,"If you have diarrhea, drink plenty of clean water or oral rehydration salts.","Dhukkubni yoo isinirra ga'e, bishaan qulqulluu baay'ee dhuguu ykn mi'a hidraasii afaan keessaa dhuguun isin barbaachisa.",1,wrong_word,have wrong word
+S130,Do not swallow this ointment.,Mallattoo kana hin liqimfinaa.,1,wrong_word,have incorracte name
+S168,Add ten drops of the liquid to a cup of juice.,Meeshaa bishaanii tokko keessatti dhibba kudhaniin bishaan itti dabalu.,2,wrong_word,have inapproprate worng word
+S106,Take one chewable tablet.,Daabiloota xiqqoo tokko fudhadhu.,1,wrong_word,
+S183,Do not use more of this medicine than your doctor told you.,Qoricha kana doktoorichi akka si ajaje caalaa hin fayyadamin.,0,,
+S129,Do not use this medicine if the liquid has changed color.,Qoricha kana yoo xuuxuu aduu jijjiirame hin fayyadaminaa.,1,wrong_word,the instruction is unclear due to single worng word
+S144,"If you feel dizzy, sit down and rest.","Dhukkubsattee yoo taate, taa'iitii boqoti.",1,wrong_grammer,the grammer is incorrect
+S164,Take two tablespoons of the liquid.,Meeshaa bishaanii suphee lama fudhadhu.,1,wrong_word,it has wrong words
+S167,Use one pump of the lotion.,Qajeelfama loosiinii tokko fayyadami.,1,wrong_word,have wrong word
+S145,"If you have a headache, take one dose.","Yoo mataa si dhukkubsate, doozii tokko fudhadhu.",0,,
+S151,Gargle with the mouthwash and spit it out.,Bishaan afaaniitiin qoqqooduu fi dhangalaasuu.,1,wrong_word,
+S159,Breathe in slowly while pressing the inhaler.,Inhaalaatorricha yommuu gufachiisu suuta suuta hafuura baafadhu.,0,,
+S156,"If you forget a dose, skip it and take the next one at the usual time.","Doozii tokko yoo irraanfatte, doozii itti aanu yeroosaatti fudhadhu.",0,,
+S197,Close the bottle tightly after each use.,Boolla sana erga fayyadamtee booda sirriitti cufuu dandeessa.,1,wrong_word,the used word are worng
+S128,Do not take extra doses if your symptoms get worse.,Mallattoowwan si mudatan yoo fooyya'an adabbii dabalataa hin fudhatu.,2,worng_instruction,
+S140,"Place the patch on clean, dry skin.",Dabalataan qaama qullaa'aafi gurraacha ta'e irratti kaa'i.,2,wrong_instruction,
+S123,Do not open the capsule.,Capsule kana hin baninaa.,0,,
+S181,Do not use this cream on your face.,Kreeemii kun fuula kee irratti hin fayyadami.,0,,
+S172,"Use the inhaler twice a day, morning and evening.",Ganama fi galgala guyyaatti al lama inhaalaa.,1,sentence_fragmentation,the instruvtion is incomplete
+S142,This spray is for use in the nose only.,Ispray'ni kun hidhaarratti qofa kan itti fayyadamuudha.,1,wrong_word,
+S149,Dry the area gently before using the ointment.,Meeshaa sanaa dura suuta suuta qilleensa sana cufuun ni danda'ama.,2,wrong_sentance,
+S148,Take this medicine at the same time every day.,Guyyaa guyyaadhaan yeroo walfakkaatuun qoricha kana fudhadhu.,0,,
+S180,Do not eat or drink for 30 minutes after using this mouthwash.,Kana erga fayyadamtee booda daqiiqaa 30f hin nyaatin ykn hin dhuganne.,1,sentance_fragmentaion,the sentance do not have the subject
+S153,Store this medicine in the fridge.,Qoricha kana mana hidhaatti kaa'i.,2,wrong_instraction,
+S117,Take the syrup three times a day for one week.,Torban tokkoof guyyaatti siiroopni si'a sadii fudhachuu.,0,,
+S155,Use the measuring cup that comes with the bottle.,Meeshaa madaallii dhukaasa kanaa wajjin jiru fayyadami.,0,,
+S190,Rinse the syringe with clean water after each use.,Siringicha erga fayyadamtee booda bishaan qullaa'aa qabaadhu.,1,wrong_word,
+S165,Break the tablet in half.,Daabbleeticha gara walakkaa cabsi.,1,wrong_word,
+S160,Take the medicine with water only.,Qoricha bishaaniin qofa fudhadhu.,0,,
+S114,Put 20 drops in a little water.,Bishaan xiqqoo keessa dhibbaa 20 galfachiisi.,2,wrong_instruction,
+S150,Use the spray only when you have trouble breathing.,Dhukkuba sammuu namaa hadoochu yoo qabdan qofa fayyadamaa.,2,wrong_sentance,
+S184,Do not take this medicine in the evening because it may keep you awake.,Qoricha kana galgala hin fudhanne kan si dammaqsu ta'uu danda'a.,0,,
+S141,Let the tablet melt on your tongue.,Meeshaan kun arrabsa kee irratti akka dhangala'u godhi.,1,wrong_grammer,
+S112,Take half a teaspoon of the powder.,Buddeena saanduqa xinnoo tokko fudhadhu.,1,wrong_word,
+S143,"Take this medicine when you wake up, before you eat anything.","Qoricha kana yommuu dammaqtan, wanta nyaattan dura fudhadhaa.",0,,
+S107,Use two sprays in each nostril.,Qilleensa hundatti buufaa lama fayyadami.,1,wrong_words,
+S178,Leave 12 hours between each dose.,Sa'aatii 12 doozii tokkoon tokkoon gidduutti dhiisi.,0,,
+S195,"If your symptoms do not improve in three days, see a doctor.","Mallattoowwan si mudatan guyyaa sadii keessatti yoo hin fooyyeffamne, ogeessa fayyaa gaafachuu qabda.",0,,
+S187,Do not leave the bottle open.,Dhukaasa kana hin baninaa.,2,wrong_instraction,it instract with the opposite idea
+S194,"If you cannot swallow the tablet, ask a health worker what to do.","Taabletticha liqimsuun kan si rakkisu yoo ta'e, maal gochuu akka qabu ogeessa fayyaa gaafadhu.",0,,
+S132,Avoid tea and coffee for an hour after taking this medicine.,Qoricha kana erga fudhattee booda sa'aatii tokkoof tee fi kafee irraa fagaadhu.,1,wrong_word,have meaning but the word coffee and tea are not translated
+S137,Do not double the dose if you vomit after taking it.,"Yoo erga fudhattee booda gubuu qabdu yoo ta'e, doozisicha dabaluu hin qabdu.",1,wrong_word,there is one worng word
+S189,Press the tablet out of the foil just before taking it.,Meeshaa foolii dura fudhatamuu kee dura taa'i.,2,wrong_grammer,confusing setnace
+S157,"If your eyes become red or painful, stop using the drops.","Iji kee yoo diimaa ykn dhukkubbii yoo sitti dhaga'ame, dammaqee fayyadamuu dhiisi.",1,wrong_word,
+S199,Tilt your head back and look up when using the eye drops.,Yommuu qoricha ijaan mul'atu fayyadamtu mataa keetiif deebitee ol ilaali.,1,wrong_grammer,
+S192,Apply the lotion to dry skin after a bath.,Loosiyoon sun erga dhiqamee booda fuudhaa nama jabaa irratti dabalata.,2,wrong_instraction,
+S118,Take one dose every morning for 21 days.,Guyyaa 21f ganama guyyaatti doozii tokko fudhadhu.,0,,
+S182,Do not take this medicine if you have had a bad reaction to it before.,Qoricha kana yoo kanaan dura dhukkuba hamaa sitti dhaga'ame hin fudhadhu.,0,,
+S125,Do not take this medicine if you have a stomach ulcer.,Yoo dhukkubsate qoricha kana hin fudhatu.,2,wrong_instruction,
+S135,Do not use this inhaler more than four times a day.,Inhaalaar kana guyyaatti al afur ol hin fayyadamin.,0,,
+S113,Give your child one sachet.,Ilmakeetiif baasii tokko kenni.,1,wrong_word,
+S188,Do not use a kitchen spoon to measure the medicine.,Qoricha kana madaaluuf suphee mana nyaataatiin hin fayyadaminaa.,0,,
+S109,Take 15 ml of the syrup.,Siiroop 15 ml fudhadhu.,0,,
+S147,Wait five minutes before using a second type of eye drops.,Daqiiqaa shan dura dhibee lammaffaan mataan itti fayyadamuudhaan eeggadhu.,1,wrong_grammer,
+S173,Apply the lotion every night for four weeks.,Torban afuriif galgala guyyaadhaan loosii kana itti fayyadami.,0,,
+S158,Take this medicine after a meal to avoid stomach pain.,Dhukkubni kun erga nyaatanii booda dhukkuba mana keessaa akka hin seenneef fudhatama.,2,wrong_grammer,
+S154,Cover the area with a clean bandage after applying the ointment.,Daawwatni sun erga hojjetamee booda iddoo sana cufaadhaan haguuguu dandeessa.,2,wrong_grammer,
+S115,Use the eye drops every 3 hours while you are awake.,Yeroo dammaqaa turtan sa'aatii 3 ta'e tokkotti dammaqoo ta'uu keessanitti dammaqoo ta'uu keessan itti fufaa.,2,wrong_sentances ,
+S166,Use a full dropper of the liquid.,Meeshaa bishaanii guutuu fayyadami.,1,wrong_word,
+S116,Take two capsules in the evening for four days.,Galgala guyyaa afuriif capsules lama fudhadhu.,0,,
+S169,Take two lozenges.,Dabalataan lama fudhadhu.,1,wrong_word,
+S136,Do not give aspirin to a child under 12.,Ijoollee waggaa 12 gadiif aspiriin hin kenninaa.,0,,
+S186,Do not drink milk within two hours of taking this medicine.,Qoricha kana erga fudhattee sa'aatii lama keessatti suphee hin dhuginaa.,1,wrong_word,
+S162,Measure 7.5 ml with the syringe.,Siiringichaatiin 7.5 ml madaalu.,0,,
+S196,Hold your breath for ten seconds after using the inhaler.,Inhaalatarricha erga fayyadamtee booda sa'aatii kudhaniif hafuura ofitti qabadhu.,2,wrong_instruction,
+S133,Do not mix this medicine with other medicines unless a doctor says so.,"Qoricha kana qoricha biraa wajjin wal qabsiisuu hin qabdu yoo ta'u, yaalii fayyaa irraa hin eegamnetti.",1,wrong_sentances,
+S104,Apply a pea-sized amount of the ointment.,Qilleensa xixiqqoo xixiqqoo ta'e itti fayyadami.,2,wrong_sentances,
+S131,Do not take more than one dose of this medicine each day.,Guyyaa guyyaatti doozii qoricha kanaa tokkoo ol hin fudhatu.,0,,
+S176,Use the nasal spray once a day for up to two weeks.,Hanga torban lamaaf guyyaatti al tokko faallaa awwaalchaa fayyadami.,1,wrong_grammer,

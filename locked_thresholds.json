@@ -1,0 +1,14 @@
+{
+  "thresholds": {
+    "amharic": [
+      0.6,
+      0.7
+    ],
+    "oromo": [
+      0.6,
+      0.4
+    ]
+  },
+  "locked_utc": "2026-11-14T13:56:07.449964+00:00",
+  "rule": "chosen on the dev split only"
+}

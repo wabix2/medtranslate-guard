@@ -1,0 +1,51 @@
+id,english,oromo_mt,rating,error_type,note
+S48,This ointment is for use on the skin only.,Dandeettiin kun maqaarratti qofa kan hojjetamu dha.,2,wrong_sentances,the translation is completly diffrent
+S08,Apply a thin layer of the cream to the area.,Kutaa xiqqoo kirimii naannoo sana irra kaa'i.,1,wrong_word,"the translation is tartly correct except the ""kutaa ""which means class and wanna refare small "
+S03,Take two 500 mg tablets.,Daabiloota 500 mg lama fudhadhu.,2,wrong_word,"the word ""Daabiloota is unknown"
+S10,The usual adult dose is two tablets.,Daandiin daa'immanii daa'immanii daa'immanii lama ta'a.,2,wrong_word wrong_sentances,there is repeated diffrent words than the english
+S06,Mix one sachet of oral rehydration salts into a litre of clean water.,Bishaan qulqulluu liitirra tokko keessatti buddeena bishaan dhugaatii afaan keessaa qabate tokko walitti qabaa.,1,wrong_word wrong_sentances,it addes wrong words like buddeena which means food  and also say add to the mouth which is unclear
+S27,Do not take this medicine on an empty stomach.,Qoricha kana mana duwwaa keessatti hin fudhatinaa.,1,wrong_sentances,it say donot take this medicine in empety housenot empetly stomach
+S14,Take one tablet three times a day for five days.,Guyyaa shanaf guyyaatti al sadii tableetii tokko fudhadhu.,1,wrong_word,"the word""tableetii ""is just direct word not tanslated "
+S38,Do not take this medicine with other products that contain paracetamol.,Qoricha kana meeshaalee paracetamoolii qabatan kaan waliin hin fudhatu.,1,wrong_sentances,the sentance is wrong
+S01,Take one tablet with a glass of water.,Meeshaa bishaanii tokko qabatee tablet tokko fudhadhu.,1,wrong_sentances,the sentances are wrong
+S20,Take one tablet every other day.,Guyyaa lammaffaatti tablet tokko fudhadhu.,0,,
+S21,You should take this medicine for three months.,Qoricha kana ji'oota sadiif fudhachuu qabda.,0,,
+S19,Use the cream twice a day for 10 days.,Guyyaa 10f guyyaatti al lama kirimicha fayyadami.,0,,
+S17,"Take the tablets for 7 days, even if you feel better.","Yoo fooyya'itu illee, guyyoota torbaaf tableeticha fudhachuu dandeessa.",1,wrong_word,"very minor wrong word it say ""tableeticha ""not translated"
+S41,Take this medicine with food.,Qoricha kana nyaataa wajjin fudhadhu.,0,,
+S45,"If you miss a dose, take it as soon as you remember.",Doozii tokko yoo dhabdan akkuma yaadattan fudhadhaa.,1,wrong_word,"it uses the word""doozii"" and ""dhabdan ""the later means if you cant find to refer if you miss"
+S37,Stop taking this medicine and see a doctor if you get a rash.,Qoricha kana fudhachuu dhiisuufi dhukkuba daddarbaa yoo qabdan ogeessa fayyaa gaafachuu dandeessu.,1,wrong_sentances,it is wrong sentance but mostly correct meaning
+S50,Drink plenty of water while taking this medicine.,Yeroo qoricha kana fudhattu bishaan hedduu dhugi.,0,,
+S26,Take one tablet at bedtime for 30 days.,Guyyoota 30f yeroo rafuu dura tablet tokko fudhadhu.,1,wrong_word,only single word error
+S47,Shake the bottle well before use.,Fayyadama dura dhukaasicha sirriitti socho'i.,1,wrong_word,"only one single word error the word""dhukaasicha "" means the gun shoot or fire but the sentance gives meaning if its corrected"
+S49,Put the drops in your left eye only.,Qilleensota sana ija bidiitti qooduu dandeessa.,2,wrong_sentances,completly dangorus instruction
+S46,"If your fever lasts more than 3 days, go to the clinic.","Hiree kee guyyoota 3 oliif kan itti fufe yoo ta'e, gara klinikitti deem.",1,wrong_word,only one word is incorrect
+S42,Take this medicine 30 minutes before a meal.,Qoricha kana nyaata dura daqiiqaa 30 fudhadhu.,0,,
+S28,Do not take more than 4 tablets in 24 hours.,Sa'aatii 24 keessatti tabletta 4 ol hin fudhatu.,0,,
+S23,Wait at least 6 hours between doses.,Yoo xiqqaate sa'aatii 6 gidduutti madaa'uu eeggadhu.,1,wrong_word,only single word that cause the error
+S30,Do not give this medicine to children under 5.,Daa'imman umriinsaanii waggaa 5 gadiif qoricha kana hin kenninaa.,0,,
+S11,Give the baby 2.5 ml of the drops.,Daa'imman shanan miiliyoolaa dhibba lamaaf kenni.,2,completely diffrent meaning than the english,
+S29,Do not drink alcohol while taking this medicine.,Yeroo qoricha kana fudhattu dhugaatii alkoolii hin dhuginaa.,0,,
+S34,"If you miss a dose, do not take two doses at once.","Doozii tokko yoo darbatte, yeroo tokkotti doozii lama hin fudhatu.",0,,
+S40,Apply the cream to the affected area only.,Kreeemicha naannoo miidhame irratti qofaa kaa'i.,0,,
+S43,Take one tablet only if you have a fever.,Qilleensa tokko yoo qabdan qofa fudhadhaa.,2,wrong_sentances,the sentances meaning is completly diffrent
+S07,Take one capsule.,Capsule tokko fudhadhu.,0,,
+S18,Take one tablet in the morning and one in the evening.,"Ganama sa'aatii tokko, galgala immoo sa'aatii tokko fudhadhu.",2,"completly diffrent meaning, it say take one hour in the morning and one hour in the evining",
+S44,Take one tablet if the pain comes back.,Yoo dhukkubni deebi'e tokko fudhadhu.,0,,
+S25,Take this medicine every 12 hours for 3 days.,Guyyaa 3f sa'aatii 12 ta'e tokkotti qoricha kana fudhadhu.,0,,
+S35,Do not use this medicine if you are allergic to penicillin.,Yoo penisiliniif allergii qabdan qoricha kana hin fayyadaminaa.,0,,
+S13,Take one and a half tablets.,Daabiloota tokkoo fi walakkaa fudhadhu.,1,wrong_word,only single word error
+S39,Swallow the tablet whole with water.,Talaallicha bishaan guutuudhaan liqimfachuu.,1,wrong_word,only one single word error.
+S24,Put the drops in twice a day for 1 week.,Torban tokkoof guyyaatti si'a lama dhiphaa.,1,wrong_word,minor word error
+S09,Take one teaspoon of the medicine.,Dawaa xinnoo xinnoo fudhadhu.,1,wrong_sentances,the sentance is incorrect
+S15,Take this medicine every 8 hours.,Qoricha kana sa'aatii saddeet tokkotti fudhadhu.,1,wrong_word,there is one addition of wrong word but it gives meaning
+S02,Give your child 5 ml of the syrup.,Daa'immakee siirooppii 5ml kenniti.,1,wrong_sentances,the sentance gives minor error
+S16,Take one capsule once a day for two weeks.,Torban lamaaf guyyaatti al tokko capsule tokko fudhadhu.,0,,
+S05,Put two drops in each eye.,Iji hundumaatti dhibbaan lama kaa'i.,1,wrong_word,one word giving diffrent meaning
+S36,Do not use this cream on broken skin.,Kreeemii kana qaama miidhame irratti hin fayyadaminaa.,0,,
+S22,"Take one tablet once a week, on the same day each week.","Torbanitti al tokko, torban torbaniin guyyaa walfakkaatuun tablet tokko fudhadhu.",0,,
+S32,Do not stop taking this medicine without talking to a health worker.,Ogeessa fayyaa wajjin utuu hin mari'atin qoricha kana fudhachuu hin dhiisin.,0,,
+S33,Do not take this medicine if you are pregnant.,Yoo ulfaa jirtu qoricha kana hin fudhatu.,0,,
+S04,Take half a tablet in the morning.,Ganama sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa'aatii sa,2,wrong_word,one word is being repeated and donot give meaning
+S31,Do not crush or chew the tablets.,Maanguddoota kana hin cabsinaa ykn hin nyaatinaa.,1,wrong_word,one word giving dcompletly diffrent meaning
+S12,Use one puff from the inhaler.,Inhaalaator irraa fagoo tokko fayyadami.,2,wrong_word,one word is incorrect and it gives completly diffrent meaning

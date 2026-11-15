@@ -1,0 +1,101 @@
+﻿id,english,category,split,oromo_core,amharic_ref,oromo_ref
+S101,Use one measuring cup of the liquid.,quantity,test,Y,አንድ የፈሳሹን መለኪያ ኩባያ ይጠቀሙ።,Dhangala'aa kanaa kubbaayyaa safartuu tokko fayyadami.
+S102,Mix one tablespoon of the powder into a cup of water.,quantity,test,Y,አንድ የሾርባ ማንኪያ ዱቄት ከውሃ ኩባያ ጋር ይቀላቅሉ።,Daakuu kana fal'aana guddaa tokko bishaan kubbaayyaa tokko keessatti bulbuli.
+S103,Use three drops in each ear.,quantity,test,Y,በእያንዳንዱ ጆሮ ላይ ሶስት ጠብታዎች ይጠቀሙ።,Gurra tokko tokkotti coboo sadii cobsi.
+S104,Apply a pea-sized amount of the ointment.,quantity,test,Y,ቅባቱን በአተር ትልቀት መጠን ይቀቡ።,Dibata kana hanga ija ataraa gahu dibi.
+S105,Give the child one 5 ml spoonful of the medicine.,quantity,test,Y,ለልጆ ከመድሃኒቱ አንድ 5ሚሊ ሙሉ ማንኪያ ይስጡት።,Qoricha kana fal'aana mililiitira 5 guutuu tokko daa'imichaaf kenni.
+S106,Take one chewable tablet.,quantity,test,Y,አንድ የሚታኘክ ኪኒን ይውሰዱ።,Kiniinii alanfatamu tokko fudhadhu.
+S107,Use two sprays in each nostril.,quantity,test,Y,እያንዳንዱን የአፍንጫ ቀዳዳ ሁለት ጊዜ ይርጩት።,Qaawwa funyaanii tokko tokkotti al lama biifi.
+S108,Stir three spoonfuls of the powder into warm water.,quantity,test,Y,ከዱቄቱ ሶስት ሙሉ ማንኪያ ከሙቅ ወሃ ጋር ያማስሉ።,Daakuu kana fal'aana sadii bishaan ho'aa keessatti bulbuli.
+S109,Take 15 ml of the syrup.,quantity,test,Y,ከሽሮፑ 15 ሚሊ ይውሰዱ።,Siirappii kana mililiitira 15 fudhadhu.
+S110,Take three capsules.,quantity,test,Y,ሶስት ካፕሱሎች ይውሰዱ።,Kaapsulii sadii fudhadhu.
+S111,"Use a small amount of gel, about the size of a coin.",quantity,test,Y,ትንሽ ጄል ይጠቀሙ፤ በሳንቲም ትልቀት መጠን።,"Jeelii kana xiqqoo, hanga saantimaa gahu fayyadami."
+S112,Take half a teaspoon of the powder.,quantity,test,Y,ከዱቄቱ ግማሽ የሻይ ማንኪያ ይውሰዱ።,Daakuu kana fal'aana shaayii walakkaa fudhadhu.
+S113,Give your child one sachet.,quantity,test,Y,ለልጆ አንድ እሽግ ይስጡት።,Daa'ima keetiif paakeettii tokko kenni.
+S114,Put 20 drops in a little water.,quantity,test,Y,በትንሽ ውሃ ውስጥ 20 ጠብታ ያድርጉ።,Bishaan xiqqoo keessatti coboo 20 cobsi.
+S115,Use the eye drops every 3 hours while you are awake.,frequency_duration,test,Y,ባልተኙ ጊዜ የአይን ጠብታውን በየ3 ሰዓታት ይጠቀሙ።,Yeroo dammaqaa jirtutti sa'aatii 3 3n coboo ijaa fayyadami.
+S116,Take two capsules in the evening for four days.,frequency_duration,test,Y,በምሽት ሁለት ካፕሱሎች ለአራት ቀናት ይውሰዱ።,Guyyaa afuriif galgala galgala kaapsulii lama fudhadhu.
+S117,Take the syrup three times a day for one week.,frequency_duration,test,Y,ሽሮፑን በቀን ሶስት ጊዜ ለአንድ ሳምንት ይውሰዱ።,Torban tokkoof guyyaatti si'a sadii siirappii kana fudhadhu.
+S118,Take one dose every morning for 21 days.,frequency_duration,test,Y,በጠዋት አንድ ዶዝ  ለ21 ቀናት ይውሰዱ።,Guyyaa 21f ganama ganama safartuu tokko fudhadhu.
+S119,Take one tablet each evening for two months.,frequency_duration,test,Y,ሁልጊዜ ማታ አንድ ኪኒን ለ21 ቀናት ይውሰዱ።,Ji'a lamaaf galgala galgala kiniinii tokko fudhadhu.
+S120,Do not use this ointment near your eyes.,negation_warning,test,Y,ይህን ቅባት ጆሮዎ አካባቢ እንዳይጠቀሙ።,Dibata kana naannoo ija keetiitti hin fayyadamin.
+S121,Do not take this medicine with grapefruit juice.,negation_warning,test,Y,ይህን መድሃኒት ከቆምጣጤ ጭማቂ ጋር እንዳይወስዱት።,Qoricha kana cuunfaa gireeppiifiruutii waliin hin fudhatin.
+S122,Do not give this medicine to a baby under 6 months.,negation_warning,test,Y,ከ6 ወር በታች ለሆኑ ህጻናት ይህን መድሃኒት እንዳይሰጡ።,Daa'ima ji'a 6 gadi ta'eef qoricha kana hin kennin.
+S123,Do not open the capsule.,negation_warning,test,Y,ካፕሱሉን እንዳይከፍቱት።,Kaapsulii sana hin banin.
+S124,Do not use the eye drops while wearing contact lenses.,negation_warning,test,Y,የአይን ኮንታክት ምስሪት አድርገው የአይን ጠብታዎቹን እንዳይጠቀሙ።,Yeroo leensii ijaa kaawwattee jirtutti coboo ijaa hin fayyadamin.
+S125,Do not take this medicine if you have a stomach ulcer.,negation_warning,test,Y,የጨጓራ ቁስለት ካለቦት ይህን መድሃኒት እንዳይወስዱ።,Yoo madaa garaachaa qabaatte qoricha kana hin fudhatin.
+S126,Do not use this spray near a flame.,negation_warning,test,Y,ይህን መርጫ እሳት አካባቢ እንዳይጠቀሙት።,Biiftuu kana naannoo ibiddaatti hin fayyadamin.
+S127,Do not touch your eye with the tip of the bottle.,negation_warning,test,Y,በጠርሙዙ ጫፍ አይኖትን እንዳይነኩ።,Fiixee qaruuraa sanaan ija kee hin tuqin.
+S128,Do not take extra doses if your symptoms get worse.,negation_warning,test,Y,ምልክቶቹ ከባሱ ተጨማሪ ዶዞች እንዳይወስዱ።,Yoo mallattoon dhukkubaa sitti hammaate safartuu dabalataa hin fudhatin.
+S129,Do not use this medicine if the liquid has changed color.,negation_warning,test,Y,የፈሳሹ ቀለም ከተቀየረ መድሃኒቱን እንዳይጠቀሙ።,Yoo dhangala'aan sun bifa jijjiirrate qoricha kana hin fayyadamin.
+S130,Do not swallow this ointment.,negation_warning,test,Y,ይህን ቅባት እንዳይውጡ።,Dibata kana hin liqimsin.
+S131,Do not take more than one dose of this medicine each day.,negation_warning,test,Y,ከዚህ መድሃኒት በየቀኑ ከአንድ ዶዝ በላይ እንዳይወስዱ።,Guyyaa tokkotti qoricha kana safartuu tokkoo ol hin fudhatin.
+S132,Avoid tea and coffee for an hour after taking this medicine.,negation_warning,test,Y,ይህን መድሃኒት ከወሰዱ በኋላ ለአንድ ሰዓት ከሻይ እና ከቡና ይጠንቀቁ።,Qoricha kana erga fudhattee booda sa'aatii tokkoof shaayii fi buna hin dhugin.
+S133,Do not mix this medicine with other medicines unless a doctor says so.,negation_warning,test,Y,ሃኪም እስካላሎት ድረስ ይህን መድሃኒት ከሌሎች መድሃኒቶች ጋር እንዳይቀላቅሉ።,Hakiimni yoo siin jedhe malee qoricha kana qorichoota biroo waliin walitti hin makin.
+S134,Do not lie down for 30 minutes after taking this tablet.,negation_warning,test,Y,ይህን ኪኒን ከወሰዱ በኋላ ለ30 ደቂቃዎች ጋደም እንዳይሉ።,Kiniinii kana erga fudhattee booda daqiiqaa 30f hin ciisin.
+S135,Do not use this inhaler more than four times a day.,negation_warning,test,Y,ይህን መተንፈሻ በቀን ከአራት ጊዜ በላይ እንዳይጠቀሙ።,Inheelarii kana guyyaatti si'a afurii ol hin fayyadamin.
+S136,Do not give aspirin to a child under 12.,negation_warning,test,Y,ከ12 ዓመት በታች ለሆኑ ልጆች አስፕሪን እንዳይሰጡ።,Ijoollee waggaa 12 gadi ta'aniif aspiiriinii hin kennin.
+S137,Do not double the dose if you vomit after taking it.,negation_warning,test,Y,ከወሰዱት በኋላ ካስመለሶት ዶዙን እጥፍ እንዳያደርጉ።,Erga fudhattee booda yoo si haqqisiise safartuu dachaa hin fudhatin.
+S138,Avoid direct sunlight while using this cream.,negation_warning,test,Y,ይህን ክሬም በሚጠቀሙበት ጊዜ በቀጥታ ከሚመጣ የጸሃይ ብርሃን ይጠንቀቁ።,Yeroo kiriimii kana fayyadamtu aduun kallattiin akka si hin argine of eeggadhu.
+S139,Never give this medicine to a child without asking a doctor.,negation_warning,test,Y,ሃኪም ሳይጠይቁ ይህን መድሃኒት ለልጅ እንዳይሰጡ።,Hakiima osoo hin gaafatin gonkumaa qoricha kana daa'imaaf hin kennin.
+S140,"Place the patch on clean, dry skin.",route_condition,test,Y,ፓቹን ንጹህ እና ደረቅ ቆዳ ላይ ይለጥፉት።,Laastika qorichaa sana gogaa qulqulluu fi gogaa ta'e irra kaa'i.
+S141,Let the tablet melt on your tongue.,route_condition,test,Y,ኪኒኑ ምላሶ ላይ እንዲቀልጥ ያድርጉ።,Kiniiniin sun arraba kee irratti akka baqu godhi.
+S142,This spray is for use in the nose only.,route_condition,test,Y,ይህ መርጫ ለአፍንጫ ጥቅም ብቻ ነው።,Biiftuun kun funyaan keessatti qofa kan fayyadamuudha.
+S143,"Take this medicine when you wake up, before you eat anything.",route_condition,test,Y,ይህን መድሃኒት ከእንቅልፎ እንደነቁ ምንም ሳይበሉ ይውሰዱት።,"Yeroo hirribaa kaatu, waan tokko osoo hin nyaatin dura qoricha kana fudhadhu."
+S144,"If you feel dizzy, sit down and rest.",route_condition,test,Y,የማዞር ስሜት ከተሰማዎት ቁጭ ይበሉ እና ይረፉ።,"Yoo sitti naanna'e, taa'iitii boqodhu."
+S145,"If you have a headache, take one dose.",route_condition,test,Y,ራስ ምታት ካሎት አንድ ዶዝ ይውሰዱ።,"Yoo mataan si dhukkube, safartuu tokko fudhadhu."
+S146,"If the bleeding does not stop, go to the hospital.",route_condition,test,Y,የደም መፍሰሱ ካላቆመ ወደ ሆስፒታል ይሂድ።,"Yoo dhiiguun sun dhaabbachuu dide, gara hospitaalaa deemi."
+S147,Wait five minutes before using a second type of eye drops.,route_condition,test,Y,ሌላ አይነት የአይን ጠብታዎች ክመጠቀሞ በፊት አምስት ደቂቃዎች ይጠብቁ።,Gosa coboo ijaa lammaffaa fayyadamuu kee dura daqiiqaa shan eegi.
+S148,Take this medicine at the same time every day.,route_condition,test,Y,ይህን መድሃኒት በተመሳሳይ ሰዓት በየቀኑ ይውሰዱ።,Qoricha kana guyyaa hundumaa sa'aatii wal fakkaataatti fudhadhu.
+S149,Dry the area gently before using the ointment.,route_condition,test,Y,ቅባቱን ከመጠቀሞ በፊት ቦታውን በቀስታ ያድርቁት።,Dibata sana fayyadamuu kee dura naannoo sana suuta gogsi.
+S150,Use the spray only when you have trouble breathing.,route_condition,test,Y,መርጫውን የመተንፈስ ችግር ካጋጠሞት ብቻ ይጠቀሙት።,Yeroo harganuun si rakkisu qofa biiftuu kana fayyadami.
+S151,Gargle with the mouthwash and spit it out.,route_condition,test,Y,አፍ ማጠቢያውን አፍዎ ውስጥ ይጉመጥመጡና ይትፉት።,Dhangala'aa afaan ittiin luluqqataniin luluqqadhuutii tufi.
+S152,"Keep the medicine in a cool, dry place.",route_condition,test,Y,መድኃኒቱን በቀዝቃዛና ደረቅ ቦታ ያስቀምጡ።,Qoricha kana iddoo qabbanaa'aa fi gogaa ta'e kaa'i.
+S153,Store this medicine in the fridge.,route_condition,test,Y,ይህንን መድኃኒት ማቀዝቀዣ ውስጥ ያስቀምጡ።,Qoricha kana firiijii keessa kaa'i.
+S154,Cover the area with a clean bandage after applying the ointment.,route_condition,test,Y,ቅባቱን ከቀቡ በኋላ ቦታውን በንጹህ ጨርቅ ይሸፍኑ።,Dibata sana erga dibdee booda naannoo sana faashaa qulqulluun haguugi.
+S155,Use the measuring cup that comes with the bottle.,route_condition,test,Y,ከጠርሙሱ ጋር አብሮ የተሰጠውን መለኪያ ኩባያ ይጠቀሙ።,Kubbaayyaa safartuu qaruuraa sana waliin dhufu fayyadami.
+S156,"If you forget a dose, skip it and take the next one at the usual time.",route_condition,test,Y,መድኃኒት መውሰድ ከረሱ፣ ያንን በመተው ቀጣዩን መድኃኒት በመደበኛ ሰዓቱ ይውሰዱ።,"Yoo safartuu tokko dagatte, irra darbiitii isa itti aanu sa'aatii baratametti fudhadhu."
+S157,"If your eyes become red or painful, stop using the drops.",route_condition,test,Y,ዓይንዎ ቀይ ከሆነ ወይም ህመም ከተሰማችው ጠብታውን መጠቀም ያቁሙ።,"Yoo ijji kee diimate ykn si dhukkube, coboo sana fayyadamuu dhaabi."
+S158,Take this medicine after a meal to avoid stomach pain.,route_condition,test,Y,ይህንን መድኃኒት የሆድ ህመም እንዳያመጣብዎ ከምግብ በኋላ ይውሰዱ።,Dhukkubbii garaachaa ittisuuf qoricha kana nyaata booda fudhadhu.
+S159,Breathe in slowly while pressing the inhaler.,route_condition,test,Y,ኢንሄለሩን እየተጫኑ በቀስታ ትንፋሽ ይሳቡ።,Yeroo inheelarii sana dhiibdu suuta gara keessaatti hargani.
+S160,Take the medicine with water only.,route_condition,test,Y,መድኃኒቱን ከውሃ ጋር ብቻ ይውሰዱ።,Qoricha kana bishaan qofaan fudhadhu.
+S161,Give the baby one dropper of the vitamin drops.,quantity,test,Y,ለህፃኑ ከቪታሚን ጠብታዎች ውስጥ አንድ ጠብታ ይስጡ።,Daa'imaaf vitaaminii cobtuu tokko kenni.
+S162,Measure 7.5 ml with the syringe.,quantity,test,Y,በሲሪንጅ 7.5 ሚሊ ሊትር ለክተዉ ይጠቀሙ።,Sirinjichaan mililiitira 7.5 safari.
+S163,Rub a small amount of the lotion onto the rash.,quantity,test,Y,ሎሽኑን በትንሽ መጠን ሽፍታው ላይ ይቀቡ።,Loshinii kana xiqqoo madaa gogaa irratti dibuun sukkuumi.
+S164,Take two tablespoons of the liquid.,quantity,test,Y,ከፈሳሽ  መድኃኒቱ ሁለት የሾርባ ማንኪያ ይጠቀሙ።,Dhangala'aa kana fal'aana guddaa lama fudhadhu.
+S165,Break the tablet in half.,quantity,test,Y,እንክብሉን ለሁለት ይሰብሩ።,Kiniinii sana walakkaatti caccabsi.
+S166,Use a full dropper of the liquid.,quantity,test,Y,የፈሳሹን ሙሉ ጠብታ ይጠቀሙ።,Cobtuu dhangala'aa guutuu tokko fayyadami.
+S167,Use one pump of the lotion.,quantity,test,Y,ሎሽኑን አንድ ጊዜ በመጫን ይጠቀሙ።,Loshinii irraa hurguffaa (pampii) tokko fayyadami.
+S168,Add ten drops of the liquid to a cup of juice.,quantity,test,Y,ከፈሳሹ ውስጥ 10 ጠብታዎችን ወደ የፍራፍሬ ጭማቂ ጨምሩበት።,Dhangala'aa irraa coboo kudhan cuunfaa kubbaayyaa tokko keessatti dabaladhu.
+S169,Take two lozenges.,quantity,test,Y,ሁለት የሚመጠጡ እንክብሎችን ይውሰዱ።,Qoricha afaan keessatti baquu (loozinjii) lama fudhadhu.
+S170,"Use a thin strip of cream, about two centimeters long.",quantity,test,Y,ርዝመቱ ሁለት ሴንቲሜትር ያህል ቀጭን ክሬም በስሱ ይቀቡ።,"Kiriimii kana haphii, dheerina santimeetira lama ta'e dibi."
+S171,Take one lozenge every two hours.,frequency_duration,test,Y,በየሁለት ሰዓቱ አንድ የሚመጠጥ እንክብል ይዉሰዱ።,Sa'aatii lama lamaan loozinjii tokko fudhadhu.
+S172,"Use the inhaler twice a day, morning and evening.",frequency_duration,test,Y,ኢንሄለሩን በቀን ሁለት ጊዜ (ጠዋትና ማታ) ይጠቀሙ።,Inheelarii kana ganamaa fi galgala guyyaatti si'a lama fayyadami.
+S173,Apply the lotion every night for four weeks.,frequency_duration,test,Y,ሎሽኑን/ቅባቱን ለአራት ሳምንታት በየዕለቱ ማታ ማታ ይቀቡ።,Torban afuriif galgala galgala loshinii kana dibi.
+S174,Take two spoonfuls of the syrup every 6 hours.,frequency_duration,test,Y,ከሽሮፕ መድኃኒቱ ሁለት የሾርባ ማንኪያ በየስድስት ሰዓቱ ይጠጡ።,Sa'aa 6 6n sirapii kana fal'aana lama lama fudhadhu.
+S175,Take the medicine once every three days.,frequency_duration,test,Y,መድኃኒቱን በየሶስት ቀኑ አንድ ጊዜ ይውሰዱ።,Guyyaa sadii sadii booda al tokko qoricha kana fudhadhu.
+S176,Use the nasal spray once a day for up to two weeks.,frequency_duration,test,Y,የአፍንጫ ስፕሬዩን በቀን አንድ ጊዜ ለሁለት ሳምንታት ይጠቀሙ።,Biiftuu funyaanii kana torban lamaa oliif osoo hin taane guyyaatti si'a tokko fayyadami.
+S177,Take one vitamin tablet each day for 90 days.,frequency_duration,test,Y,ለ90 ቀናት በየቀኑ አንድ እንክብል ይውሰዱ።,Guyyaa 90f guyyaa hundumaa kiniinii vitaaminii tokko fudhadhu.
+S178,Leave 12 hours between each dose.,frequency_duration,test,Y,መድኃኒቱን በሚወስዱባቸው ጊዜያት መካከል የ12 ሰዓት ልዩነት መኖር አለበት።,Fuudha qorichaa tokkoo fi inni itti aanu gidduutti sa'aatii 12 eegi.
+S179,Do not use this medicine if the packet is open.,negation_warning,test,Y,ማሸጊያው የተከፈተ ከሆነ ይህንን መድኃኒት አይጠቀሙ።,Yoo paakeetiichi banamee jiru ta'e qoricha kana hin fayyadamin.
+S180,Do not eat or drink for 30 minutes after using this mouthwash.,negation_warning,test,Y,ይህንን አፍ ማጠቢያ ከተጠቀሙ በኋላ ለ30 ደቂቃ ምንም ነገር አይብሉ ወይም አይጠጡ።,Luluqqata afaanii kana erga fayyadamtee booda daqiiqaa 30f waan nyaachuu fi dhuguu irraa oggolaadhu.
+S181,Do not use this cream on your face.,negation_warning,test,Y,ይህን ክሬም ፊቶ ላይ እንዳይጠቀሙት።,Fuula keetiif kiriimii kana hin fayyadamin.
+S182,Do not take this medicine if you have had a bad reaction to it before.,negation_warning,test,Y,ከዚህ በፊት ለዚህ መድሃኒት መጥፎ ምላሽ ከነበሮት እንዳይወስዱት።,Yoo duraan qoricha kanaaf miidhaa qabate (alaljii) qabaatte hin fudhatin.
+S183,Do not use more of this medicine than your doctor told you.,negation_warning,test,Y,ሃኪሞ ከነገሮት በላይ ይህን መድሃኒት እንዳይጠቀሙ።,Hakiimni kee akka si jedheen ol qoricha kana hin fayyadamin.
+S184,Do not take this medicine in the evening because it may keep you awake.,negation_warning,test,Y,ንቁ ሊያደርጎት ስለሚችል ይህን መድሃኒት በምሽት እንዳይወስዱት።,Hirriba kee waan dhabsiisuuf galgala qoricha kana hin fudhatin.
+S185,Do not use this ointment on a child under two years.,negation_warning,test,Y,ይህን ቅባት ከሁለት ዓመት በታች በሆኑ ልጆች ላይ እንዳይጠቀሙት።,Daa'ima waggaa lama gadi ta'eef dibata kana hin fayyadamin.
+S186,Do not drink milk within two hours of taking this medicine.,negation_warning,test,Y,ይህን መድሃኒት ከወሰዱ በኋላ ለሁለት ሰዓታት ወተት እንዳይጠጡ።,Qoricha kana erga fudhattee sa'aatii lama keessatti aanan hin dhugin.
+S187,Do not leave the bottle open.,negation_warning,test,Y,ጠርሙዙን ክፍት እንዳይተዉት።,Qaruuraa banaatti hin dhiisin.
+S188,Do not use a kitchen spoon to measure the medicine.,negation_warning,test,Y,መድሃኒቱን ለመለካት የጓዳ ማንኪያ እንዳይጠቀሙ።,Qoricha safaruuf fal'aana mana nyaataa hin fayyadamin.
+S189,Press the tablet out of the foil just before taking it.,route_condition,test,Y,ኪኒኑን ከመውሰዶ በፊት ከፎይሉ ተጭነው ያሶጡት።,Osoo hin fudhatin dura battalatti kiniinii sana faayitii irraa baasi.
+S190,Rinse the syringe with clean water after each use.,route_condition,test,Y,መርፌውን ሁሌ ከተጠቀሙ በኋላ በውሃ ይጠቡት።,Erga fayyadamtee booda sirinjii bishaan qulqulluun dhiqi.
+S191,"If you have diarrhea, drink plenty of clean water or oral rehydration salts.",route_condition,test,Y,ተቅማጥ ካለቦት ብዙ ውሃ ወይም ኦአሬስ ይጠጡ።,"Yoo garaa kaasaa qabaatte, bishaan qulqulluu baay'ee ykn ashaboo deeggarsa qaamaa (ORS) dhugi."
+S192,Apply the lotion to dry skin after a bath.,route_condition,test,Y,ሎሽኑን ገላዎን ከታጠቡ በኋላ ደረቅ ቆዳ ላይ ይቀቡት።,Erga dhiqattee booda loshinii kana gogaa gogoo ta'e irratti dibi.
+S193,Take this medicine with a snack if it upsets your stomach.,route_condition,test,Y,ለጨጓራዎ ካልተመቾት ይህን መድሃኒት ከቀላል ምግብ ጋር ይውሰዱት።,Yoo garaachi kee si dhukkube qoricha kana nyaata xiqqoo waliin fudhadhu.
+S194,"If you cannot swallow the tablet, ask a health worker what to do.",route_condition,test,Y,ኪኒኑን መዋጥ ካልቻሉ፤ ምን ማድረግ እንዳለቦት የጤና ባለሙያ ይጠይቁ።,"Yoo kiniinii sana liqimsuu dadhabde, ogeessa fayyaa maal gochuu akka qabdu gaafadhu."
+S195,"If your symptoms do not improve in three days, see a doctor.",route_condition,test,Y,ምልክቶቹ በሶስት ቀናት ውስጥ ካልተሻሻሉ ሃኪም ይዩ።,"Yoo mallattoon kee guyyaa sadii keessatti fooyya'uu baate, doktoora bira deemi."
+S196,Hold your breath for ten seconds after using the inhaler.,route_condition,test,Y,መተንፈሻውን ከተጠቀሙ በኋላ ትንፋሾን ለአስር ሴኮንዶች ይያዙ።,Inheelarii fayyadamtee booda sekondii kudhaniif hargansuu kee qabadhu.
+S197,Close the bottle tightly after each use.,route_condition,test,Y,ሁሌ ጠርሙዙን ከተጠቀሙ በኋላ በደንብ ይዝጉት።,Erga fayyadamtee booda qaruuraa sana jabeessitii cufi.
+S198,Open the sachet and pour the powder into a clean glass.,route_condition,test,Y,እሽጉን ከፍተው ዱቄቱን ንጹህ ብርጭቆ ላይ ያፍስሱት።,Paakeettii sana baniitii daakuu isaa kubbaayyaa qulqulluu keessatti naqi.
+S199,Tilt your head back and look up when using the eye drops.,route_condition,test,Y,ጭንቅላቶን ወደኋላ አድርገው ወደላይ እያዩ የአይን ጠብታዎቹን ይጠቀሙ።,Yeroo coboo ijaa fayyadamtu mataa kee gara duubaatti deebisiitii ol ilaali.
+S200,Check the label before you give the medicine to a child.,route_condition,test,Y,መድሃኒቱን ለልጅ ከመስጠቶ በፊት ጽሁፉን ያረጋግጡ።,Daa'imaaf qoricha kennuu kee dura lakkoofsa fuula qaruuraa irra jiru ilaali.

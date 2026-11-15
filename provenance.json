@@ -1,0 +1,17 @@
+{
+  "model": "facebook/nllb-200-distilled-600M",
+  "num_beams": 4,
+  "max_new_tokens": 128,
+  "seed": 42,
+  "refs_sha256": "5862d515e05de8a8202e189f5bf807ea9e98d70b758a62052752e99b6fa6386e",
+  "refs_hash_note": "computed from the references stored in translations_scored.csv",
+  "scored_file_modified_utc": "2026-11-14T13:48:02.203276+00:00",
+  "written_utc": "2026-11-14T13:48:02.220573+00:00",
+  "python": "3.13.18",
+  "torch": "2.14.1+cpu",
+  "transformers": "5.22.1",
+  "sacrebleu": "2.6.0",
+  "sentence_transformers": "5.7.0",
+  "sklearn": "1.6.1",
+  "pandas": "2.2.3"
+}
