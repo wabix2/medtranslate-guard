@@ -1,0 +1,4 @@
+ratings,n,dangerous,recall,recall_ci,fw_gate,fw_chrf,diff_ci,chrf_auroc
+worse-of (reported),100,31,0.81,"(np.float64(0.65), np.float64(0.93))",30,36,"(np.float64(-6.0), np.float64(16.0))",0.69
+rater 1 only,100,25,0.84,"(np.float64(0.68), np.float64(0.97))",34,42,"(np.float64(-5.0), np.float64(19.0))",0.69
+rater 2 only,100,20,0.9,"(np.float64(0.74), np.float64(1.0))",37,46,"(np.float64(-6.0), np.float64(22.0))",0.7

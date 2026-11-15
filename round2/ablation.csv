@@ -1,0 +1,11 @@
+language,gate,flag_rate,recall,missed,false_warnings
+amharic,layer 1,0.09,0.1,28,6
+amharic,layer 2,0.19,0.35,20,8
+amharic,layer 3,0.46,0.71,9,24
+amharic,all layers,0.55,0.81,6,30
+amharic,trivial rule,0.13,0.13,27,9
+oromo,layer 1,0.07,0.19,22,2
+oromo,layer 2,0.45,0.81,5,23
+oromo,layer 3,0.52,0.78,6,31
+oromo,all layers,0.62,0.93,2,37
+oromo,trivial rule,0.14,0.15,23,10
