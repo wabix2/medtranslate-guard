@@ -11,6 +11,7 @@ Veritas AI International High School Hackathon 2026, AI + Languages track.
 - **chrF, the standard automatic score, carries only a moderate safety signal** (AUROC 0.70 for Amharic, 0.77 for Oromo). It is too weak to use alone.
 - **Our explainable three-layer gate caught 81% (Amharic) and 93% (Oromo) of dangerous translations on held-out data**, and every flag comes with a human-readable reason. But it flags 55-62% of sentences, which is far too many for real deployment. It is a triage idea, not a finished safety filter.
 - **At matched recall the gate gave fewer false warnings than chrF-only, but the difference is not statistically distinguishable from zero** (paired bootstrap, see below). We do not claim the gate beats chrF; we claim it is comparable and explains itself.
+- **A learned classifier built by a team member (trained on Round 1 only) did not detectably beat chrF on held-out Round 2.** We report it as a negative result, not as a replacement for the gate.
 
 ## Questions
 
@@ -112,6 +113,29 @@ Dangerous translations the gate **missed**:
 
 All three Amharic misses were rated dangerous by only one of the two raters, so part of the "miss" is label disagreement. The pattern still shows the main weakness: **back-translation by the same model can undo its own mistakes.**
 
+## A learned classifier (a team member's model)
+
+A team member trained a separate classifier: logistic regression on TF-IDF text plus 19 engineered features (number and negation checks, units, LaBSE similarity and others), trained on **Round 1 only** (150 rows: 100 Amharic and 50 Afaan Oromo). Its decision threshold (0.3559) was chosen on Round 1 cross-validation, where it reached 75% recall at about 10% false positives. We evaluated it **once** on Round 2, which it never saw, with nothing retrained or re-tuned (`analysis/ml_round2_eval.py`).
+
+| Round 2, held out | Amharic | Oromo |
+| --- | --- | --- |
+| Dangerous translations | 31 / 100 | 27 / 100 |
+| Recall of dangerous | 61% (95% CI 44-78%) | 56% (36-74%) |
+| Sentences flagged | 42% (32-52%) | 29% (20-38%) |
+| False warnings | 23 (15-31) | 14 (7-21) |
+| *Rule gate, for reference: recall / flagged / false warnings* | *81% / 55% / 30* | *93% / 62% / 37* |
+| chrF-only at the same recall: false warnings | 31 (12-42) | 14 (4-27) |
+| chrF-only minus learned model (paired) | +8 (-12 to +21) | +0 (-12 to +14) |
+| AUROC of the model's probability | 0.73 (0.62-0.83) | 0.73 (0.61-0.83) |
+| AUROC, learned model minus chrF (paired) | +0.03 (-0.11 to +0.17) | -0.04 (-0.16 to +0.06) |
+
+- **The threshold did not transfer.** Recall fell from 75% in cross-validation to 61% and 56% on Round 2, and it misses 12 of 31 (Amharic) and 12 of 27 (Oromo) dangerous translations. Round 2 has different sentences and a somewhat higher share of dangerous ones, and 150 training rows is small.
+- **It is not distinguishable from chrF.** At the same recall it produced about the same number of false warnings as chrF-only, and its AUROC is within noise of chrF's in both languages.
+- **It flags fewer sentences than the rule gate but catches fewer dangerous ones.** These are different operating points, so this table does not show which is better. For a safety tool, missing about half of the dangerous translations is the more serious failure.
+- With this much labelled data, a learned model did not beat a single chrF number on held-out sentences. More labelled data, or pretrained multilingual features, would be the next thing to try. Unlike the gate, it also gives no reasons for its flags.
+
+(`round2/ml_results.md`, `round2/ml_predictions.csv`)
+
 ## What this means in practice
 
 At a 55-62% flag rate, users would see a warning on most sentences, so this cannot replace a pharmacist or health worker. The realistic use is **triage**: show the reasons, let a person double-check flagged instructions, and treat an unflagged sentence as "no red flag found", never as "safe".
@@ -124,7 +148,10 @@ At a 55-62% flag rate, users would see a warning on most sentences, so this cann
 - `locked_thresholds.json` - thresholds locked on 2026-11-14 (shared by both rounds)
 - **Round 2 (`round2/`):** `sentences.csv`, `translations_scored.csv`, `translations_rated.csv`, `rating_sheets/`, `figures/`, `results_summary.md`, `provenance.json`
 - **Extra Round 2 analysis (locked thresholds, nothing re-tuned):** `analysis/round2_analysis.py` produces `round2/gate_features.csv`, `ci_results.md`, `rater_robustness.csv`, `ablation.csv`, `category_recall.csv`, `examples.md` and `figures/tradeoff_curve.png`
-- `docs/` - one-page write-up and full report
+- `ml_classifier.py`, `models/` - the team member's learned classifier (needs `scikit-learn==1.6.1`)
+- `analysis/ml_round2_eval.py` - one-shot held-out evaluation of that classifier; writes `round2/ml_results.md` and `round2/ml_predictions.csv`
+- `docs/` - one-page write-up (PDF)
+- `LICENSE` - MIT (code and our data; third-party models keep their own licenses, see Credits)
 
 ## Run
 
@@ -161,9 +188,18 @@ To regenerate the confidence intervals, ablation, robustness check and examples 
 python analysis/round2_analysis.py
 ```
 
+To evaluate the learned classifier on Round 2 (downloads LaBSE, about 1.9 GB):
+
+```
+pip install "scikit-learn==1.6.1" sentence-transformers sacrebleu
+python analysis/ml_round2_eval.py
+```
+
+The saved model only loads with scikit-learn 1.6.1, the version it was trained with.
+
 ## Credits
 
-NLLB-200 distilled 600M (Meta AI), sentence-transformers `all-MiniLM-L6-v2`, sacreBLEU (chrF), scikit-learn. All sentences, reference translations and safety ratings were created by our team. No external datasets and no real patient data.
+NLLB-200 distilled 600M (Meta AI; released under CC BY-NC 4.0, non-commercial), sentence-transformers `all-MiniLM-L6-v2` (rule gate) and LaBSE (learned classifier), sacreBLEU (chrF), scikit-learn. Please check each model's own license before any commercial use. All sentences, reference translations and safety ratings were created by our team. No external datasets and no real patient data.
 
 ## Limitations
 
@@ -172,12 +208,14 @@ NLLB-200 distilled 600M (Meta AI), sentence-transformers `all-MiniLM-L6-v2`, sac
 - **Small samples.** 100 sentences per language per round gives wide confidence intervals, and the gate-vs-chrF difference is not statistically distinguishable from zero.
 - **Deliberately hard test set.** Dangerous-translation rates here (27-31%) are not real-world rates.
 - **Back-translation uses the same model** that made the translation, so it can hide errors (see S121 and S141). We tested only one small model (NLLB-200 distilled 600M).
+- **The learned classifier is small and its threshold did not transfer** (150 training rows, Round 1 only); see its section above.
 - **High flag rate.** 55-62% of sentences are flagged; the gate is not usable as an automatic filter.
 - **Known blind spots:** word-order scrambling (coverage compares word sets) and opposite-meaning words such as "cool" vs "warm".
 - The chrF-only comparison baseline is tuned on Round 2 labels (see the note under the results table).
 
 ## Future work
 
+- Retrain the learned classifier with more labelled data (including Round 2) and test it on a new Round 3; try combining it with the rule gate's reasons.
 - A second independent Oromo rater (ideally a fluent pharmacist or health worker).
 - A different back-translation system, or a larger translation model, to test whether the findings generalize.
 - Cut layer 3's false warnings without losing recall; add word-order and antonym checks (for example cool/warm).
