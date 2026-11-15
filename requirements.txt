@@ -1,0 +1,9 @@
+numpy
+pandas
+sacrebleu
+sentence-transformers
+scikit-learn
+matplotlib
+torch
+transformers
+sentencepiece
